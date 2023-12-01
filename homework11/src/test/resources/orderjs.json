@@ -1,0 +1,10 @@
+{
+    "name": "Anna",
+    "address": "Lenina street",
+    "flat": "55",
+    "grocery":       {
+        "bread": "Stolichny",
+        "snaks": "Chips",
+        "drink": "Byratino"
+      }
+  }
